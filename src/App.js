@@ -4,9 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App"> 
-     <div style={{backgroundColor: 'blue',}}/>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <header className="App-header">
+        <img src="https://styles.redditmedia.com/t5_2txf4/styles/communityIcon_9tb7fpieqvz51.png?width=256&s=e4475878d6b9e8aaa43e1d3f613e74a9c3806954" height="100px" width="100px" />
         <p>
           I'm Jamie Allen, a DevOps and Platform engineer
         </p>
