@@ -32,6 +32,20 @@
    border-radius:50%;
 }
 
+/* Two image container (50% width for two) */
+.image-column {
+	  float: left;
+	  width: 25%;
+	  padding: 50px;
+      }
+
+/* Clear floats after image containers */
+.image-row::after {
+	  content: "";
+	  clear: both;
+	  display: table;
+	    }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
