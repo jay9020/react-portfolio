@@ -29,11 +29,11 @@ function App() {
 	  	<p></p>
 
 	  	<h2 style={{textAlign: 'center'}}>
-	  	Hi, I'm Jamie Allen, a DevOps and Platform Engineer based in the UK
+	  	Hi, I'm Jamie Allen, an IT Operations Team Lead based in the UK.
 	  	</h2>
 	
 	  	<p style={{textAlign: 'center'}}>
-	  	If you would like to speak to me, please get in touch
+	  	If you would like to contact me, please get in touch via email at <a href="jamie@twistercreative.co.uk">jamie@twistercreative.co.uk<a/>
           	</p>
 
 	  	</div>
