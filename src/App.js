@@ -33,7 +33,7 @@ function App() {
 	  	</h2>
 	
 	  	<p style={{textAlign: 'center'}}>
-	  	If you would like to contact me, please get in touch via email at <a href="jamie@twistercreative.co.uk">jamie@twistercreative.co.uk<a/>
+	  	If you would like to contact me, please get in touch via email at <a href="jamie@twistercreative.co.uk">jamie@twistercreative.co.uk</a>
           	</p>
 
 	  	</div>
